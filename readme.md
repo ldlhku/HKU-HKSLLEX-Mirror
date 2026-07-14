@@ -23,3 +23,7 @@ The database structure is defined in "data.schema.json" file. A human readable v
 The data is stored in JSON format. A flattened CSV file (in UTF8-BOM) is also provided for easy access.
 
 The HKSL videos are provided in two formats. Available on OSF are the videos in reduced MP4 and WebP formats (due to storage limitations); they can be found in video/small and video/webP respectively. Full, high-definition videos are available on request.
+
+## **How to cite**
+
+Thompson, A. L., Van Hoey, T., Chik, A. W. C., & Do, Y. (2025). Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: An iterated learning study. _Cognitive Linguistics_, 36(2), 227–259. [https://doi.org/10.1515/cog-2024-0033](https://doi.org/10.1515/cog-2024-0033).
